@@ -27,14 +27,14 @@ Here is a quick overview of the project structure:
 
 To begin, clone the repository to your local machine using the following command:
 
-git clone https://github.com/username/TFM-Reproducible-Project.git
-cd TFM-Reproducible-Project
+#git clone https://github.com/username/TFM-Reproducible-Project.git
+#cd TFM-Reproducible-Project
 
 This project uses Conda to manage dependencies. All necessary packages are listed in the environment.yml file.
 
-conda env create -f environment.yml
-conda activate TFM-environment
-conda list
+#conda env create -f environment.yml
+#conda activate TFM-environment
+#conda list
 
 If any packages are missing, you can install them manually using conda install or pip install.
 
